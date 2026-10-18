@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/dtmf"
+        android:title="DtMF"
+        android:icon="@drawable/dtmf"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/DTMF"
+        android:title="Debí Tirar Más Fotos"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/nslqvapm"
+        android:title="NSLQVAPM"
+        android:icon="@drawable/nslqvpm"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/NSLQVAPM"
+        android:title="Nadie Sabe Lo Que Va A Pasar Manñana"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/unvst"
+        android:title="UNVST"
+        android:icon="@drawable/uvst"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/UNVST"
+        android:title="Un Verano Sin Ti"
+        app:showAsAction="ifRoom"/>
+</menu>
